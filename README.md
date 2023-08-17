@@ -1,6 +1,6 @@
 # bbox-php
 
-The function bbox in `bbox.php` places an image element inside a bounding box (x0,y) -- (x1,y1).
+The function bbox in `bbox.php` places an image element inside a bounding box (x0,y0) -- (x1,y1).
 
 Both `$doc` and `$jpeg` are GDImage elements.
 
